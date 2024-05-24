@@ -1,5 +1,6 @@
 library(tidyverse)
 library(rvest)
+library(readr)
 
 path_fmt <- "./data/raw/web_data/Refugee Appeals by Country of Alleged Persecution - {year} - Immigration and Refugee Board of Canada.htm"
 column_names <- c("country",
@@ -44,7 +45,7 @@ process_yearly <- function(year) {
   return(scraped_tables)
 }
 
-2017:2023 %>%
+final_table <- 2017:2023 %>%
   map(process_yearly) %>%
   bind_rows() %>%
   mutate(
@@ -71,5 +72,7 @@ process_yearly <- function(year) {
     ),
     across(c(country, outcome), as_factor)
   ) %>%
-  pivot_wider(names_from = year, values_from = count) %>%
-  saveRDS("./data/intermediate/rad_appeals.rds")
+  pivot_wider(names_from = year, values_from = count)
+
+final_table %>% saveRDS("./data/intermediate/rad_appeals.rds")
+final_table %>% write_csv("./data/intermediate/rad_appeals.csv")

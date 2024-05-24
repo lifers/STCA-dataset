@@ -1,0 +1,1576 @@
+country,merit,outcome,2017,2018,2019,2020,2021,2022,2023
+Total,NA,filed,4905,7256,11817,6894,10055,11186,7965
+Total,FALSE,nonmerit_dismiss_jurisdiction,414,608,577,189,251,289,183
+Total,FALSE,nonmerit_dismiss_imperfect,245,272,266,292,382,747,384
+Total,FALSE,nonmerit_dismiss_other,98,159,214,168,613,367,219
+Total,TRUE,merit_dismiss_confirm,1625,2445,5746,6151,7160,6363,5968
+Total,TRUE,merit_allow_referback,409,421,707,792,1042,835,927
+Total,TRUE,merit_allow_substitute,346,506,1174,1963,2820,2464,2449
+Total,NA,total_finalized,3137,4412,8684,9555,12268,11065,10130
+Total,NA,pending,3710,6561,9700,7071,4891,5005,2888
+Afghanistan,NA,filed,33,51,41,22,NA,23,21
+Afghanistan,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Afghanistan,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Afghanistan,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Afghanistan,TRUE,merit_dismiss_confirm,21,NA,NA,26,NA,NA,NA
+Afghanistan,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Afghanistan,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Afghanistan,NA,total_finalized,41,31,35,44,35,24,NA
+Afghanistan,NA,pending,20,40,46,24,NA,NA,NA
+Albania,NA,filed,52,49,37,38,49,37,NA
+Albania,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Albania,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Albania,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Albania,TRUE,merit_dismiss_confirm,25,30,21,NA,26,38,NA
+Albania,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Albania,TRUE,merit_allow_substitute,NA,NA,NA,NA,23,NA,NA
+Albania,NA,total_finalized,38,63,37,45,61,52,21
+Albania,NA,pending,57,43,43,40,28,NA,NA
+Algeria,NA,filed,30,NA,55,80,140,101,60
+Algeria,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Algeria,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Algeria,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Algeria,TRUE,merit_dismiss_confirm,NA,NA,39,28,99,100,81
+Algeria,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Algeria,TRUE,merit_allow_substitute,NA,NA,NA,NA,43,NA,NA
+Algeria,NA,total_finalized,NA,NA,54,30,157,121,96
+Algeria,NA,pending,40,38,39,89,72,51,NA
+Angola,NA,filed,NA,24,84,98,163,196,71
+Angola,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Angola,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,26,NA
+Angola,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Angola,TRUE,merit_dismiss_confirm,NA,NA,48,35,158,89,98
+Angola,TRUE,merit_allow_referback,NA,NA,NA,NA,21,NA,25
+Angola,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Angola,NA,total_finalized,NA,NA,65,41,207,148,146
+Angola,NA,pending,NA,27,46,103,59,104,29
+Antigua and Barbuda,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Antigua and Barbuda,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Antigua and Barbuda,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Antigua and Barbuda,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Antigua and Barbuda,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Antigua and Barbuda,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Antigua and Barbuda,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Antigua and Barbuda,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Antigua and Barbuda,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Argentina,NA,filed,NA,NA,NA,NA,NA,21,NA
+Argentina,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Argentina,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Argentina,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Argentina,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,26,NA
+Argentina,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Argentina,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Argentina,NA,total_finalized,NA,NA,NA,NA,NA,27,NA
+Argentina,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Armenia,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Armenia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Armenia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Armenia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Armenia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Armenia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Armenia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Armenia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Armenia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Azerbaijan,NA,filed,55,73,44,NA,NA,NA,NA
+Azerbaijan,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Azerbaijan,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Azerbaijan,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Azerbaijan,TRUE,merit_dismiss_confirm,NA,29,36,NA,NA,NA,NA
+Azerbaijan,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Azerbaijan,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Azerbaijan,NA,total_finalized,NA,60,61,32,NA,NA,NA
+Azerbaijan,NA,pending,44,57,40,NA,NA,NA,NA
+Bahamas,NA,filed,NA,20,46,NA,58,99,77
+Bahamas,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Bahamas,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Bahamas,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Bahamas,TRUE,merit_dismiss_confirm,NA,NA,13,29,35,40,61
+Bahamas,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Bahamas,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Bahamas,NA,total_finalized,29,NA,NA,42,49,76,103
+Bahamas,NA,pending,NA,21,50,NA,26,49,23
+Bangladesh,NA,filed,58,72,133,86,182,187,138
+Bangladesh,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Bangladesh,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Bangladesh,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Bangladesh,TRUE,merit_dismiss_confirm,21,NA,65,59,47,118,100
+Bangladesh,TRUE,merit_allow_referback,NA,NA,NA,NA,21,NA,NA
+Bangladesh,TRUE,merit_allow_substitute,NA,NA,30,30,83,55,47
+Bangladesh,NA,total_finalized,36,41,111,103,162,203,168
+Bangladesh,NA,pending,46,77,100,82,102,86,55
+Barbados,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Barbados,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Barbados,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Barbados,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Barbados,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Barbados,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Barbados,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Barbados,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Barbados,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Belgium,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Belgium,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Belgium,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Belgium,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Belgium,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Belgium,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Belgium,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Belgium,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Belgium,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Benin,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Benin,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Benin,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Benin,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Benin,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Benin,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Benin,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Benin,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Benin,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Bolivia,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Bolivia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Bolivia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Bolivia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Bolivia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Bolivia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Bolivia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Bolivia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Bolivia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Bosnia and Herzegovina,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Bosnia and Herzegovina,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Bosnia and Herzegovina,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Bosnia and Herzegovina,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Bosnia and Herzegovina,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Bosnia and Herzegovina,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Bosnia and Herzegovina,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Bosnia and Herzegovina,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Bosnia and Herzegovina,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Botswana,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Botswana,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Botswana,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Botswana,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Botswana,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Botswana,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Botswana,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Botswana,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Botswana,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Brazil,NA,filed,23,34,33,41,29,49,34
+Brazil,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Brazil,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Brazil,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Brazil,TRUE,merit_dismiss_confirm,NA,NA,25,26,38,26,NA
+Brazil,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Brazil,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Brazil,NA,total_finalized,NA,23,33,34,53,44,39
+Brazil,NA,pending,21,32,32,39,NA,20,NA
+Bulgaria,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Bulgaria,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Bulgaria,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Bulgaria,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Bulgaria,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Bulgaria,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Bulgaria,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Bulgaria,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Bulgaria,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Burkina Faso,NA,filed,NA,NA,NA,NA,NA,22,NA
+Burkina Faso,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Burkina Faso,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Burkina Faso,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Burkina Faso,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Burkina Faso,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Burkina Faso,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Burkina Faso,NA,total_finalized,NA,NA,NA,NA,NA,22,NA
+Burkina Faso,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Burundi,NA,filed,20,NA,NA,NA,NA,21,NA
+Burundi,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Burundi,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Burundi,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Burundi,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Burundi,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Burundi,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Burundi,NA,total_finalized,NA,NA,NA,NA,NA,20,NA
+Burundi,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Cambodia,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Cambodia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Cambodia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Cambodia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Cambodia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Cambodia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Cambodia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Cambodia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Cambodia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Cameroon,NA,filed,39,43,43,29,55,54,20
+Cameroon,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Cameroon,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Cameroon,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Cameroon,TRUE,merit_dismiss_confirm,NA,49,NA,39,26,31,NA
+Cameroon,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Cameroon,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Cameroon,NA,total_finalized,NA,67,NA,57,56,61,32
+Cameroon,NA,pending,55,31,57,29,28,21,NA
+Central African Republic,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Central African Republic,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Central African Republic,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Central African Republic,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Central African Republic,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Central African Republic,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Central African Republic,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Central African Republic,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Central African Republic,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Chad,NA,filed,41,32,NA,32,NA,25,NA
+Chad,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Chad,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Chad,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Chad,TRUE,merit_dismiss_confirm,NA,NA,27,NA,NA,NA,NA
+Chad,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Chad,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Chad,NA,total_finalized,NA,34,39,25,32,23,NA
+Chad,NA,pending,46,46,20,27,NA,NA,NA
+Chile,NA,filed,NA,33,33,NA,32,94,105
+Chile,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Chile,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Chile,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Chile,TRUE,merit_dismiss_confirm,NA,NA,22,NA,25,47,62
+Chile,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Chile,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Chile,NA,total_finalized,NA,22,42,NA,41,66,89
+Chile,NA,pending,NA,26,NA,NA,NA,34,50
+China,NA,filed,457,428,471,244,462,355,133
+China,FALSE,nonmerit_dismiss_jurisdiction,NA,21,NA,NA,NA,NA,NA
+China,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,20,NA
+China,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+China,TRUE,merit_dismiss_confirm,219,215,202,361,277,220,133
+China,TRUE,merit_allow_referback,52,37,38,64,31,31,NA
+China,TRUE,merit_allow_substitute,NA,NA,40,152,153,148,75
+China,NA,total_finalized,319,301,311,592,490,424,238
+China,NA,pending,289,416,576,232,206,142,41
+Colombia,NA,filed,100,210,340,279,320,476,353
+Colombia,FALSE,nonmerit_dismiss_jurisdiction,49,79,116,60,50,77,38
+Colombia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Colombia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Colombia,TRUE,merit_dismiss_confirm,20,NA,97,165,219,160,156
+Colombia,TRUE,merit_allow_referback,NA,NA,NA,29,NA,36,39
+Colombia,TRUE,merit_allow_substitute,NA,NA,40,54,73,154,144
+Colombia,NA,total_finalized,95,107,267,317,375,448,384
+Colombia,NA,pending,60,163,236,201,146,172,141
+Congo (Brazzaville),NA,filed,NA,NA,27,NA,24,34,NA
+Congo (Brazzaville),FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Congo (Brazzaville),FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Congo (Brazzaville),FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Congo (Brazzaville),TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Congo (Brazzaville),TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Congo (Brazzaville),TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Congo (Brazzaville),NA,total_finalized,NA,NA,NA,NA,21,32,23
+Congo (Brazzaville),NA,pending,NA,NA,21,NA,NA,NA,NA
+Congo (Kinshasa),NA,filed,91,49,182,150,180,292,152
+Congo (Kinshasa),FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Congo (Kinshasa),FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,24,27
+Congo (Kinshasa),FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Congo (Kinshasa),TRUE,merit_dismiss_confirm,NA,50,55,89,171,150,175
+Congo (Kinshasa),TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,38
+Congo (Kinshasa),TRUE,merit_allow_substitute,NA,NA,NA,23,NA,21,NA
+Congo (Kinshasa),NA,total_finalized,50,76,99,145,243,218,263
+Congo (Kinshasa),NA,pending,91,63,146,156,93,167,56
+Costa Rica,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Costa Rica,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Costa Rica,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Costa Rica,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Costa Rica,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Costa Rica,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Costa Rica,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Costa Rica,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Costa Rica,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Croatia,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Croatia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Croatia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Croatia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Croatia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Croatia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Croatia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Croatia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Croatia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Cuba,NA,filed,NA,NA,NA,NA,NA,30,NA
+Cuba,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Cuba,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Cuba,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Cuba,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Cuba,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Cuba,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Cuba,NA,total_finalized,NA,NA,NA,NA,NA,22,34
+Cuba,NA,pending,NA,NA,NA,NA,NA,20,NA
+Cyprus,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Cyprus,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Cyprus,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Cyprus,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Cyprus,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Cyprus,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Cyprus,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Cyprus,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Cyprus,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Czech Republic,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Czech Republic,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Czech Republic,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Czech Republic,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Czech Republic,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Czech Republic,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Czech Republic,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Czech Republic,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Czech Republic,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Djibouti,NA,filed,55,47,39,NA,NA,NA,NA
+Djibouti,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Djibouti,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Djibouti,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Djibouti,TRUE,merit_dismiss_confirm,NA,NA,29,20,NA,NA,NA
+Djibouti,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Djibouti,TRUE,merit_allow_substitute,NA,NA,NA,21,NA,NA,NA
+Djibouti,NA,total_finalized,22,27,47,48,NA,NA,NA
+Djibouti,NA,pending,35,55,49,NA,NA,NA,NA
+Dominica,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Dominica,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Dominica,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Dominica,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Dominica,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Dominica,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Dominica,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Dominica,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Dominica,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Dominican Republic,NA,filed,NA,NA,NA,NA,22,38,NA
+Dominican Republic,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Dominican Republic,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Dominican Republic,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Dominican Republic,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,20,NA
+Dominican Republic,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Dominican Republic,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Dominican Republic,NA,total_finalized,NA,NA,NA,NA,NA,29,26
+Dominican Republic,NA,pending,NA,NA,NA,NA,NA,21,NA
+Ecuador,NA,filed,NA,NA,NA,NA,27,27,27
+Ecuador,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Ecuador,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Ecuador,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Ecuador,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Ecuador,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Ecuador,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Ecuador,NA,total_finalized,NA,NA,NA,NA,26,29,29
+Ecuador,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Egypt,NA,filed,37,24,80,75,90,30,NA
+Egypt,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Egypt,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Egypt,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Egypt,TRUE,merit_dismiss_confirm,NA,NA,22,NA,88,24,NA
+Egypt,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Egypt,TRUE,merit_allow_substitute,NA,NA,NA,NA,47,NA,23
+Egypt,NA,total_finalized,23,26,48,57,140,40,31
+Egypt,NA,pending,28,26,58,76,26,NA,NA
+El Salvador,NA,filed,29,70,105,21,NA,35,26
+El Salvador,FALSE,nonmerit_dismiss_jurisdiction,NA,21,28,NA,NA,NA,NA
+El Salvador,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+El Salvador,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+El Salvador,TRUE,merit_dismiss_confirm,NA,NA,24,47,NA,NA,NA
+El Salvador,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+El Salvador,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+El Salvador,NA,total_finalized,31,43,73,79,27,30,26
+El Salvador,NA,pending,NA,39,71,NA,NA,NA,NA
+Equatorial Guinea,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Equatorial Guinea,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Equatorial Guinea,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Equatorial Guinea,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Equatorial Guinea,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Equatorial Guinea,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Equatorial Guinea,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Equatorial Guinea,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Equatorial Guinea,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Eritrea,NA,filed,49,44,49,NA,25,32,NA
+Eritrea,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Eritrea,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Eritrea,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Eritrea,TRUE,merit_dismiss_confirm,NA,NA,20,NA,21,NA,NA
+Eritrea,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Eritrea,TRUE,merit_allow_substitute,NA,NA,NA,22,NA,NA,NA
+Eritrea,NA,total_finalized,38,28,42,44,36,25,33
+Eritrea,NA,pending,28,44,51,23,NA,NA,NA
+Ethiopia,NA,filed,86,61,133,118,47,27,NA
+Ethiopia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Ethiopia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Ethiopia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Ethiopia,TRUE,merit_dismiss_confirm,42,20,30,73,30,NA,NA
+Ethiopia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Ethiopia,TRUE,merit_allow_substitute,NA,NA,24,68,74,28,NA
+Ethiopia,NA,total_finalized,81,32,70,164,120,40,NA
+Ethiopia,NA,pending,42,71,134,86,NA,NA,NA
+Finland,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Finland,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Finland,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Finland,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Finland,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Finland,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Finland,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Finland,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Finland,NA,pending,NA,NA,NA,NA,NA,NA,NA
+France,NA,filed,NA,NA,NA,NA,NA,NA,NA
+France,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+France,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+France,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+France,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+France,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+France,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+France,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+France,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Gabon,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Gabon,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Gabon,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Gabon,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Gabon,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Gabon,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Gabon,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Gabon,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Gabon,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Gambia,NA,filed,NA,NA,NA,NA,NA,21,NA
+Gambia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Gambia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Gambia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Gambia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,21,NA
+Gambia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Gambia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Gambia,NA,total_finalized,NA,NA,NA,NA,20,27,NA
+Gambia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Georgia,NA,filed,42,49,29,34,31,30,NA
+Georgia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Georgia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Georgia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Georgia,TRUE,merit_dismiss_confirm,NA,23,21,24,30,NA,NA
+Georgia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Georgia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Georgia,NA,total_finalized,NA,42,35,37,53,31,27
+Georgia,NA,pending,39,46,40,37,NA,NA,NA
+Germany,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Germany,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Germany,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Germany,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Germany,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Germany,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Germany,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Germany,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Germany,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Ghana,NA,filed,55,76,80,27,56,74,63
+Ghana,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Ghana,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Ghana,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Ghana,TRUE,merit_dismiss_confirm,23,34,53,29,46,37,46
+Ghana,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Ghana,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Ghana,NA,total_finalized,34,55,83,44,77,62,75
+Ghana,NA,pending,42,63,60,42,21,33,21
+Greece,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Greece,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Greece,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Greece,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Greece,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Greece,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Greece,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Greece,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Greece,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Guatemala,NA,filed,NA,25,NA,NA,30,37,45
+Guatemala,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Guatemala,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Guatemala,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Guatemala,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,22,24
+Guatemala,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Guatemala,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Guatemala,NA,total_finalized,NA,22,NA,22,NA,44,39
+Guatemala,NA,pending,NA,NA,21,NA,NA,NA,NA
+Guinea,NA,filed,NA,NA,20,NA,NA,50,26
+Guinea,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Guinea,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Guinea,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Guinea,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,24
+Guinea,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Guinea,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Guinea,NA,total_finalized,NA,NA,NA,NA,NA,38,28
+Guinea,NA,pending,NA,NA,23,NA,NA,21,NA
+Guinea-Bissau,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Guinea-Bissau,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Guinea-Bissau,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Guinea-Bissau,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Guinea-Bissau,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Guinea-Bissau,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Guinea-Bissau,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Guinea-Bissau,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Guinea-Bissau,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Guyana,NA,filed,NA,NA,28,NA,NA,NA,NA
+Guyana,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Guyana,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Guyana,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Guyana,TRUE,merit_dismiss_confirm,NA,NA,21,NA,NA,NA,NA
+Guyana,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Guyana,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Guyana,NA,total_finalized,NA,NA,31,NA,NA,NA,NA
+Guyana,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Haiti,NA,filed,423,1337,1825,510,346,226,170
+Haiti,FALSE,nonmerit_dismiss_jurisdiction,54,117,105,NA,20,36,NA
+Haiti,FALSE,nonmerit_dismiss_imperfect,NA,NA,41,61,25,NA,NA
+Haiti,FALSE,nonmerit_dismiss_other,NA,NA,21,NA,58,NA,NA
+Haiti,TRUE,merit_dismiss_confirm,50,452,1412,964,435,202,78
+Haiti,TRUE,merit_allow_referback,NA,33,71,48,49,32,30
+Haiti,TRUE,merit_allow_substitute,NA,25,78,59,67,41,32
+Haiti,NA,total_finalized,116,655,1729,1172,654,355,181
+Haiti,NA,pending,401,1084,1178,518,212,81,71
+Honduras,NA,filed,NA,53,26,22,34,28,33
+Honduras,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Honduras,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Honduras,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Honduras,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,26,NA
+Honduras,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Honduras,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Honduras,NA,total_finalized,NA,35,33,35,21,43,31
+Honduras,NA,pending,NA,33,26,NA,27,NA,NA
+Hong Kong (SAR),NA,filed,NA,NA,NA,NA,NA,NA,NA
+Hong Kong (SAR),FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Hong Kong (SAR),FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Hong Kong (SAR),FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Hong Kong (SAR),TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Hong Kong (SAR),TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Hong Kong (SAR),TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Hong Kong (SAR),NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Hong Kong (SAR),NA,pending,NA,NA,NA,NA,NA,NA,NA
+Hungary,NA,filed,132,130,62,NA,20,NA,NA
+Hungary,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Hungary,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Hungary,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Hungary,TRUE,merit_dismiss_confirm,75,41,38,NA,NA,NA,NA
+Hungary,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Hungary,TRUE,merit_allow_substitute,NA,49,42,47,NA,NA,NA
+Hungary,NA,total_finalized,110,108,106,62,21,29,NA
+Hungary,NA,pending,89,114,73,NA,NA,NA,NA
+India,NA,filed,243,190,480,530,1485,3993,2174
+India,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,22,NA
+India,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,82,388,84
+India,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,40,NA
+India,TRUE,merit_dismiss_confirm,69,69,296,326,784,1895,1950
+India,TRUE,merit_allow_referback,24,NA,NA,NA,103,156,273
+India,TRUE,merit_allow_substitute,NA,NA,67,61,222,504,842
+India,NA,total_finalized,117,115,397,434,1224,3005,3196
+India,NA,pending,266,341,424,522,784,1771,750
+Indonesia,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Indonesia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Indonesia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Indonesia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Indonesia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Indonesia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Indonesia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Indonesia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Indonesia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Iran,NA,filed,47,100,181,75,175,70,41
+Iran,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Iran,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Iran,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Iran,TRUE,merit_dismiss_confirm,NA,NA,33,72,50,48,20
+Iran,TRUE,merit_allow_referback,NA,NA,23,NA,NA,43,NA
+Iran,TRUE,merit_allow_substitute,NA,NA,31,87,56,39,26
+Iran,NA,total_finalized,NA,53,92,180,150,137,57
+Iran,NA,pending,41,88,177,73,99,32,NA
+Iraq,NA,filed,90,96,69,42,65,30,NA
+Iraq,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Iraq,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Iraq,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Iraq,TRUE,merit_dismiss_confirm,NA,40,NA,36,45,NA,NA
+Iraq,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Iraq,TRUE,merit_allow_substitute,NA,NA,21,39,35,NA,NA
+Iraq,NA,total_finalized,76,81,57,92,87,36,20
+Iraq,NA,pending,66,81,91,41,NA,NA,NA
+Ireland,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Ireland,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Ireland,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Ireland,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Ireland,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Ireland,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Ireland,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Ireland,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Ireland,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Israel,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Israel,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Israel,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Israel,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Israel,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Israel,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Israel,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Israel,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Israel,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Italy,NA,filed,NA,23,NA,NA,20,20,NA
+Italy,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Italy,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Italy,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Italy,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Italy,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Italy,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Italy,NA,total_finalized,26,NA,NA,NA,NA,22,20
+Italy,NA,pending,NA,22,NA,NA,NA,NA,NA
+Côte d'Ivoire,NA,filed,NA,NA,NA,NA,45,33,NA
+Côte d'Ivoire,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Côte d'Ivoire,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Côte d'Ivoire,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Côte d'Ivoire,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,27,23,20
+Côte d'Ivoire,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Côte d'Ivoire,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Côte d'Ivoire,NA,total_finalized,NA,NA,NA,NA,33,27,26
+Côte d'Ivoire,NA,pending,NA,NA,NA,NA,NA,23,NA
+Jamaica,NA,filed,44,35,49,41,48,78,34
+Jamaica,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Jamaica,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Jamaica,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Jamaica,TRUE,merit_dismiss_confirm,29,NA,NA,34,43,29,35
+Jamaica,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Jamaica,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Jamaica,NA,total_finalized,36,34,24,58,61,61,62
+Jamaica,NA,pending,25,26,52,35,23,40,NA
+Jordan,NA,filed,NA,31,91,69,91,66,97
+Jordan,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Jordan,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Jordan,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Jordan,TRUE,merit_dismiss_confirm,NA,NA,26,32,87,25,45
+Jordan,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Jordan,TRUE,merit_allow_substitute,NA,NA,NA,NA,24,22,42
+Jordan,NA,total_finalized,25,NA,49,71,137,66,110
+Jordan,NA,pending,NA,35,78,76,30,30,NA
+Kazakhstan,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Kazakhstan,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Kazakhstan,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Kazakhstan,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Kazakhstan,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Kazakhstan,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Kazakhstan,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Kazakhstan,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Kazakhstan,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Kenya,NA,filed,23,42,36,56,135,52,42
+Kenya,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Kenya,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Kenya,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Kenya,TRUE,merit_dismiss_confirm,NA,NA,NA,30,74,53,NA
+Kenya,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Kenya,TRUE,merit_allow_substitute,NA,NA,NA,24,48,26,24
+Kenya,NA,total_finalized,NA,NA,NA,60,142,87,46
+Kenya,NA,pending,20,43,64,60,53,NA,NA
+South Korea,NA,filed,NA,NA,NA,NA,NA,NA,NA
+South Korea,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+South Korea,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+South Korea,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+South Korea,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+South Korea,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+South Korea,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+South Korea,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+South Korea,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Kosovo,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Kosovo,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Kosovo,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Kosovo,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Kosovo,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Kosovo,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Kosovo,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Kosovo,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Kosovo,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Kuwait,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Kuwait,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Kuwait,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Kuwait,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Kuwait,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Kuwait,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Kuwait,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Kuwait,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Kuwait,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Kyrgyzstan,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Kyrgyzstan,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Kyrgyzstan,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Kyrgyzstan,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Kyrgyzstan,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Kyrgyzstan,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Kyrgyzstan,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Kyrgyzstan,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Kyrgyzstan,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Latvia,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Latvia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Latvia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Latvia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Latvia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Latvia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Latvia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Latvia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Latvia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Lebanon,NA,filed,85,80,73,32,103,99,132
+Lebanon,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Lebanon,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Lebanon,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Lebanon,TRUE,merit_dismiss_confirm,24,29,38,45,52,74,84
+Lebanon,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Lebanon,TRUE,merit_allow_substitute,NA,20,NA,21,NA,NA,NA
+Lebanon,NA,total_finalized,65,71,69,78,96,96,133
+Lebanon,NA,pending,71,80,84,38,45,47,46
+Liberia,NA,filed,NA,NA,NA,NA,31,NA,NA
+Liberia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Liberia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Liberia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Liberia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Liberia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Liberia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Liberia,NA,total_finalized,NA,NA,NA,NA,NA,24,NA
+Liberia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Libya,NA,filed,23,NA,23,26,NA,NA,NA
+Libya,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Libya,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Libya,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Libya,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Libya,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Libya,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Libya,NA,total_finalized,36,NA,22,NA,33,NA,NA
+Libya,NA,pending,NA,NA,NA,27,NA,NA,NA
+Lithuania,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Lithuania,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Lithuania,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Lithuania,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Lithuania,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Lithuania,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Lithuania,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Lithuania,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Lithuania,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Malawi,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Malawi,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Malawi,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Malawi,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Malawi,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Malawi,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Malawi,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Malawi,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Malawi,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Mali,NA,filed,25,NA,NA,NA,NA,30,NA
+Mali,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Mali,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Mali,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Mali,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Mali,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Mali,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Mali,NA,total_finalized,22,25,22,NA,NA,20,NA
+Mali,NA,pending,41,28,NA,NA,NA,NA,NA
+Mauritania,NA,filed,NA,NA,NA,NA,NA,24,NA
+Mauritania,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Mauritania,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Mauritania,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Mauritania,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Mauritania,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Mauritania,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Mauritania,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Mauritania,NA,pending,NA,10,NA,NA,NA,NA,NA
+Mauritius,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Mauritius,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Mauritius,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Mauritius,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Mauritius,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Mauritius,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Mauritius,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Mauritius,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Mauritius,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Mexico,NA,filed,155,302,899,1009,1575,1610,2183
+Mexico,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,22,NA,NA,NA,NA
+Mexico,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,33,56,94,125
+Mexico,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Mexico,TRUE,merit_dismiss_confirm,26,63,331,488,1245,991,1410
+Mexico,TRUE,merit_allow_referback,NA,NA,37,78,160,111,153
+Mexico,TRUE,merit_allow_substitute,NA,NA,60,114,335,332,465
+Mexico,NA,total_finalized,59,108,485,747,1837,1577,2
+Mexico,NA,pending,125,319,733,996,734,767,759
+Moldova,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Moldova,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Moldova,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Moldova,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Moldova,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Moldova,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Moldova,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Moldova,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Moldova,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Mongolia,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Mongolia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Mongolia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Mongolia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Mongolia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Mongolia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Mongolia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Mongolia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Mongolia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Montenegro,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Montenegro,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Montenegro,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Montenegro,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Montenegro,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Montenegro,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Montenegro,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Montenegro,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Montenegro,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Morocco,NA,filed,NA,NA,NA,NA,NA,NA,20
+Morocco,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Morocco,FALSE,nonmerit_dismiss_imperfect,2,NA,NA,NA,NA,NA,NA
+Morocco,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Morocco,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Morocco,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Morocco,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Morocco,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Morocco,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Mozambique,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Mozambique,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Mozambique,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Mozambique,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Mozambique,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Mozambique,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Mozambique,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Mozambique,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Mozambique,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Namibia,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Namibia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Namibia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Namibia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Namibia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Namibia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Namibia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Namibia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Namibia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Nepal,NA,filed,28,29,NA,NA,84,NA,NA
+Nepal,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Nepal,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Nepal,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Nepal,TRUE,merit_dismiss_confirm,NA,NA,NA,20,NA,24,NA
+Nepal,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Nepal,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,23,NA
+Nepal,NA,total_finalized,NA,NA,NA,29,39,57,NA
+Nepal,NA,pending,NA,29,31,NA,50,NA,NA
+Netherlands,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Netherlands,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Netherlands,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Netherlands,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Netherlands,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Netherlands,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Netherlands,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Netherlands,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Netherlands,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Nicaragua,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Nicaragua,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Nicaragua,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Nicaragua,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Nicaragua,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Nicaragua,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Nicaragua,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Nicaragua,NA,total_finalized,NA,NA,NA,NA,NA,NA,23
+Nicaragua,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Niger,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Niger,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Niger,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Niger,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Niger,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Niger,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Niger,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Niger,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Niger,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Nigeria,NA,filed,830,1621,3910,1812,1612,790,389
+Nigeria,FALSE,nonmerit_dismiss_jurisdiction,45,50,47,NA,NA,NA,NA
+Nigeria,FALSE,nonmerit_dismiss_imperfect,29,36,58,24,NA,NA,NA
+Nigeria,FALSE,nonmerit_dismiss_other,NA,24,46,NA,326,112,21
+Nigeria,TRUE,merit_dismiss_confirm,335,554,1767,1826,1552,624,284
+Nigeria,TRUE,merit_allow_referback,85,107,216,208,256,108,58
+Nigeria,TRUE,merit_allow_substitute,NA,54,288,555,666,316,168
+Nigeria,NA,total_finalized,526,826,2422,2649,2856,1204,543
+Nigeria,NA,pending,525,1321,2812,1983,748,331,183
+Norway,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Norway,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Norway,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Norway,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Norway,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Norway,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Norway,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Norway,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Norway,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Pakistan,NA,filed,126,229,423,311,685,280,185
+Pakistan,FALSE,nonmerit_dismiss_jurisdiction,NA,34,37,NA,NA,NA,NA
+Pakistan,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Pakistan,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Pakistan,TRUE,merit_dismiss_confirm,57,42,134,226,382,244,118
+Pakistan,TRUE,merit_allow_referback,NA,NA,21,32,52,49,NA
+Pakistan,TRUE,merit_allow_substitute,NA,NA,26,85,234,168,91
+Pakistan,NA,total_finalized,79,106,237,374,710,475,235
+Pakistan,NA,pending,88,211,399,336,313,113,64
+Palestine,NA,filed,30,35,71,40,NA,NA,NA
+Palestine,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Palestine,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Palestine,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Palestine,TRUE,merit_dismiss_confirm,NA,NA,NA,26,NA,NA,NA
+Palestine,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Palestine,TRUE,merit_allow_substitute,NA,NA,NA,20,NA,NA,NA
+Palestine,NA,total_finalized,23,28,31,69,38,NA,NA
+Palestine,NA,pending,NA,NA,58,29,NA,NA,NA
+Peru,NA,filed,NA,NA,22,NA,24,56,60
+Peru,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Peru,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Peru,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Peru,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,40
+Peru,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Peru,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Peru,NA,total_finalized,NA,NA,NA,NA,26,43,71
+Peru,NA,pending,NA,NA,NA,NA,NA,27,NA
+Philippines,NA,filed,NA,33,NA,NA,38,35,28
+Philippines,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Philippines,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Philippines,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Philippines,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,33,29,NA
+Philippines,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Philippines,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Philippines,NA,total_finalized,NA,NA,NA,NA,40,34,28
+Philippines,NA,pending,NA,28,NA,NA,NA,NA,NA
+Poland,NA,filed,NA,20,NA,NA,27,NA,NA
+Poland,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Poland,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Poland,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Poland,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Poland,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Poland,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Poland,NA,total_finalized,NA,NA,NA,NA,NA,23,NA
+Poland,NA,pending,NA,20,NA,NA,23,NA,NA
+Portugal,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Portugal,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Portugal,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Portugal,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Portugal,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Portugal,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Portugal,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Portugal,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Portugal,NA,pending,NA,NA,6,NA,NA,NA,NA
+Qatar,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Qatar,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Qatar,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Qatar,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Qatar,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Qatar,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Qatar,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Qatar,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Qatar,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Romania,NA,filed,NA,NA,69,24,29,27,27
+Romania,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Romania,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Romania,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Romania,TRUE,merit_dismiss_confirm,NA,NA,NA,21,NA,NA,NA
+Romania,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Romania,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,23,NA
+Romania,NA,total_finalized,NA,NA,49,39,38,30,NA
+Romania,NA,pending,NA,NA,35,20,NA,NA,NA
+Russia,NA,filed,NA,NA,NA,NA,25,NA,NA
+Russia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Russia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Russia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Russia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Russia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Russia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Russia,NA,total_finalized,NA,NA,NA,20,21,NA,NA
+Russia,NA,pending,NA,NA,21,NA,NA,NA,NA
+Rwanda,NA,filed,20,21,22,44,64,51,47
+Rwanda,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Rwanda,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Rwanda,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Rwanda,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,40,NA,28
+Rwanda,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Rwanda,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Rwanda,NA,total_finalized,NA,NA,22,21,82,39,58
+Rwanda,NA,pending,20,23,23,46,28,35,24
+"Saint Kitts and Nevis, Fed. Of",NA,filed,NA,NA,NA,NA,NA,NA,NA
+"Saint Kitts and Nevis, Fed. Of",FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+"Saint Kitts and Nevis, Fed. Of",FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+"Saint Kitts and Nevis, Fed. Of",FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+"Saint Kitts and Nevis, Fed. Of",TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+"Saint Kitts and Nevis, Fed. Of",TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+"Saint Kitts and Nevis, Fed. Of",TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+"Saint Kitts and Nevis, Fed. Of",NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+"Saint Kitts and Nevis, Fed. Of",NA,pending,NA,NA,NA,NA,NA,NA,NA
+Saint Lucia,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Saint Lucia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Saint Lucia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Saint Lucia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Saint Lucia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Saint Lucia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Saint Lucia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Saint Lucia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Saint Lucia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Saint Vincent and the Grenadines,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Saint Vincent and the Grenadines,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Saint Vincent and the Grenadines,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Saint Vincent and the Grenadines,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Saint Vincent and the Grenadines,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Saint Vincent and the Grenadines,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Saint Vincent and the Grenadines,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Saint Vincent and the Grenadines,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Saint Vincent and the Grenadines,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Saudi Arabia,NA,filed,22,41,57,NA,NA,NA,NA
+Saudi Arabia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Saudi Arabia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Saudi Arabia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Saudi Arabia,TRUE,merit_dismiss_confirm,NA,NA,20,NA,NA,NA,NA
+Saudi Arabia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Saudi Arabia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Saudi Arabia,NA,total_finalized,NA,25,49,34,20,NA,NA
+Saudi Arabia,NA,pending,NA,29,37,NA,NA,NA,NA
+Senegal,NA,filed,NA,NA,NA,33,73,38,NA
+Senegal,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Senegal,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Senegal,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Senegal,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,70,31,NA
+Senegal,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Senegal,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Senegal,NA,total_finalized,NA,NA,NA,NA,89,49,NA
+Senegal,NA,pending,NA,NA,NA,36,20,NA,NA
+Serbia,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Serbia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Serbia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Serbia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Serbia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Serbia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Serbia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Serbia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Serbia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Sierra Leone,NA,filed,NA,NA,NA,NA,NA,23,NA
+Sierra Leone,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Sierra Leone,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Sierra Leone,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Sierra Leone,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,20
+Sierra Leone,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Sierra Leone,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Sierra Leone,NA,total_finalized,NA,NA,NA,NA,NA,NA,30
+Sierra Leone,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Slovakia,NA,filed,NA,22,NA,NA,NA,NA,NA
+Slovakia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Slovakia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Slovakia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Slovakia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Slovakia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Slovakia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Slovakia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Slovakia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Somalia,NA,filed,181,209,99,33,80,72,41
+Somalia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Somalia,FALSE,nonmerit_dismiss_imperfect,NA,28,NA,NA,NA,NA,NA
+Somalia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Somalia,TRUE,merit_dismiss_confirm,37,66,32,77,35,47,52
+Somalia,TRUE,merit_allow_referback,NA,NA,NA,43,NA,NA,NA
+Somalia,TRUE,merit_allow_substitute,47,25,35,46,25,NA,NA
+Somalia,NA,total_finalized,116,145,105,174,78,82,81
+Somalia,NA,pending,129,194,189,50,57,49,NA
+South Africa,NA,filed,NA,34,50,48,38,30,NA
+South Africa,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+South Africa,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+South Africa,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+South Africa,TRUE,merit_dismiss_confirm,NA,NA,28,21,36,26,NA
+South Africa,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+South Africa,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+South Africa,NA,total_finalized,NA,NA,38,28,69,35,30
+South Africa,NA,pending,NA,24,36,56,25,20,NA
+Spain,NA,filed,NA,NA,NA,NA,NA,21,NA
+Spain,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Spain,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Spain,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Spain,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Spain,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Spain,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Spain,NA,total_finalized,NA,NA,NA,NA,NA,NA,20
+Spain,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Sri Lanka,NA,filed,58,44,80,54,124,128,85
+Sri Lanka,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Sri Lanka,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Sri Lanka,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Sri Lanka,TRUE,merit_dismiss_confirm,NA,28,NA,37,38,48,39
+Sri Lanka,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Sri Lanka,TRUE,merit_allow_substitute,NA,NA,NA,31,58,66,60
+Sri Lanka,NA,total_finalized,22,45,41,76,127,132,110
+Sri Lanka,NA,pending,44,43,82,60,58,54,32
+Sudan,NA,filed,26,97,NA,NA,29,NA,NA
+Sudan,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Sudan,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Sudan,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Sudan,TRUE,merit_dismiss_confirm,NA,23,40,NA,NA,NA,NA
+Sudan,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Sudan,TRUE,merit_allow_substitute,NA,NA,28,NA,NA,NA,NA
+Sudan,NA,total_finalized,NA,37,78,NA,32,NA,NA
+Sudan,NA,pending,20,80,18,NA,NA,NA,NA
+Eswatini,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Eswatini,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Eswatini,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Eswatini,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Eswatini,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Eswatini,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Eswatini,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Eswatini,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Eswatini,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Switzerland,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Switzerland,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Switzerland,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Switzerland,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Switzerland,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Switzerland,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Switzerland,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Switzerland,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Switzerland,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Syria,NA,filed,NA,23,38,NA,NA,20,NA
+Syria,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Syria,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Syria,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Syria,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Syria,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Syria,TRUE,merit_allow_substitute,NA,NA,NA,27,NA,NA,NA
+Syria,NA,total_finalized,NA,NA,NA,42,NA,NA,NA
+Syria,NA,pending,NA,20,43,NA,NA,NA,NA
+Taiwan,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Taiwan,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Taiwan,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Taiwan,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Taiwan,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Taiwan,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Taiwan,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Taiwan,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Taiwan,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Tajikistan,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Tajikistan,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Tajikistan,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Tajikistan,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Tajikistan,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Tajikistan,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Tajikistan,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Tajikistan,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Tajikistan,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Tanzania,NA,filed,NA,31,NA,NA,22,NA,22
+Tanzania,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Tanzania,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Tanzania,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Tanzania,TRUE,merit_dismiss_confirm,NA,NA,NA,22,NA,NA,NA
+Tanzania,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Tanzania,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Tanzania,NA,total_finalized,NA,NA,NA,30,NA,NA,21
+Tanzania,NA,pending,NA,29,27,NA,NA,NA,NA
+Thailand,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Thailand,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Thailand,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Thailand,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Thailand,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Thailand,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Thailand,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Thailand,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Thailand,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Togo,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Togo,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Togo,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Togo,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Togo,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Togo,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Togo,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Togo,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Togo,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Trinidad and Tobago,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Trinidad and Tobago,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Trinidad and Tobago,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Trinidad and Tobago,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Trinidad and Tobago,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Trinidad and Tobago,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Trinidad and Tobago,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Trinidad and Tobago,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Trinidad and Tobago,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Tunisia,NA,filed,NA,NA,NA,NA,22,27,21
+Tunisia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Tunisia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Tunisia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Tunisia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,27,22
+Tunisia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Tunisia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Tunisia,NA,total_finalized,NA,NA,NA,NA,NA,31,24
+Tunisia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Türkiye,NA,filed,141,117,62,36,46,NA,64
+Türkiye,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Türkiye,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Türkiye,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Türkiye,TRUE,merit_dismiss_confirm,22,35,23,38,30,NA,23
+Türkiye,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Türkiye,TRUE,merit_allow_substitute,31,47,36,NA,23,NA,NA
+Türkiye,NA,total_finalized,85,115,68,77,64,30,48
+Türkiye,NA,pending,84,87,81,39,22,NA,32
+Uganda,NA,filed,47,26,44,37,45,34,NA
+Uganda,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Uganda,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Uganda,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Uganda,TRUE,merit_dismiss_confirm,NA,NA,NA,20,35,27,NA
+Uganda,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Uganda,TRUE,merit_allow_substitute,NA,NA,NA,NA,20,NA,NA
+Uganda,NA,total_finalized,26,26,31,35,64,45,29
+Uganda,NA,pending,33,33,46,48,29,NA,NA
+Ukraine,NA,filed,42,33,38,NA,20,28,NA
+Ukraine,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Ukraine,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Ukraine,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Ukraine,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Ukraine,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Ukraine,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,20,NA
+Ukraine,NA,total_finalized,34,29,28,33,28,36,NA
+Ukraine,NA,pending,26,30,40,21,NA,NA,NA
+United Arab Emirates,NA,filed,NA,NA,NA,NA,NA,NA,NA
+United Arab Emirates,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+United Arab Emirates,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+United Arab Emirates,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+United Arab Emirates,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+United Arab Emirates,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+United Arab Emirates,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+United Arab Emirates,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+United Arab Emirates,NA,pending,NA,NA,NA,NA,NA,NA,NA
+United Kingdom,NA,filed,NA,NA,NA,NA,NA,NA,NA
+United Kingdom,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+United Kingdom,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+United Kingdom,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+United Kingdom,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+United Kingdom,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+United Kingdom,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+United Kingdom,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+United Kingdom,NA,pending,NA,NA,NA,NA,NA,NA,NA
+United States of America,NA,filed,48,115,226,76,99,52,26
+United States of America,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+United States of America,FALSE,nonmerit_dismiss_imperfect,NA,NA,24,20,NA,NA,NA
+United States of America,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+United States of America,TRUE,merit_dismiss_confirm,NA,41,117,138,75,58,31
+United States of America,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+United States of America,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+United States of America,NA,total_finalized,21,57,166,171,113,76,38
+United States of America,NA,pending,41,99,159,64,49,24,NA
+Uruguay,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Uruguay,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Uruguay,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Uruguay,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Uruguay,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Uruguay,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Uruguay,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Uruguay,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Uruguay,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Uzbekistan,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Uzbekistan,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Uzbekistan,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Uzbekistan,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Uzbekistan,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Uzbekistan,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Uzbekistan,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Uzbekistan,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Uzbekistan,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Venezuela,NA,filed,85,119,110,66,81,79,44
+Venezuela,FALSE,nonmerit_dismiss_jurisdiction,NA,20,20,NA,NA,NA,NA
+Venezuela,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Venezuela,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Venezuela,TRUE,merit_dismiss_confirm,20,31,73,60,55,52,20
+Venezuela,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Venezuela,TRUE,merit_allow_substitute,NA,13,24,22,38,NA,NA
+Venezuela,NA,total_finalized,55,68,134,101,113,84,53
+Venezuela,NA,pending,67,118,94,59,27,22,NA
+Viet Nam,NA,filed,NA,NA,NA,22,20,110,37
+Viet Nam,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Viet Nam,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Viet Nam,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Viet Nam,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,33,35,74
+Viet Nam,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Viet Nam,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Viet Nam,NA,total_finalized,NA,NA,NA,NA,36,61,91
+Viet Nam,NA,pending,NA,NA,NA,22,NA,55,NA
+Yemen,NA,filed,NA,NA,24,NA,NA,NA,NA
+Yemen,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Yemen,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Yemen,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Yemen,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Yemen,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Yemen,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Yemen,NA,total_finalized,NA,NA,NA,22,NA,NA,NA
+Yemen,NA,pending,NA,NA,22,NA,NA,NA,NA
+Zambia,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Zambia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Zambia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Zambia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Zambia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Zambia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Zambia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Zambia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Zambia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Zimbabwe,NA,filed,25,25,NA,29,32,NA,NA
+Zimbabwe,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Zimbabwe,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Zimbabwe,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Zimbabwe,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,25,NA,NA
+Zimbabwe,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Zimbabwe,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Zimbabwe,NA,total_finalized,25,NA,NA,26,53,NA,NA
+Zimbabwe,NA,pending,NA,NA,30,33,NA,NA,NA
+Unknown,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Unknown,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Unknown,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Unknown,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Unknown,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Unknown,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Unknown,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Unknown,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Unknown,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Austria,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Austria,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Austria,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Austria,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Austria,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Austria,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Austria,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Austria,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Austria,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Bahrain,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Bahrain,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Bahrain,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Bahrain,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Bahrain,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Bahrain,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Bahrain,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Bahrain,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Bahrain,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Belarus,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Belarus,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Belarus,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Belarus,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Belarus,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Belarus,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Belarus,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Belarus,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Belarus,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Belize,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Belize,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Belize,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Belize,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Belize,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Belize,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Belize,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Belize,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Belize,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Grenada,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Grenada,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Grenada,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Grenada,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Grenada,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Grenada,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Grenada,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Grenada,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Grenada,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Japan,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Japan,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Japan,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Japan,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Japan,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Japan,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Japan,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Japan,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Japan,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Luxembourg,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Macedonia,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Macedonia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Macedonia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Macedonia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Macedonia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Macedonia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Macedonia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Macedonia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Macedonia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Madagascar,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Madagascar,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Madagascar,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Madagascar,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Madagascar,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Madagascar,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Madagascar,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Madagascar,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Madagascar,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Malaysia,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Malaysia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Malaysia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Malaysia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Malaysia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Malaysia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Malaysia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Malaysia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Malaysia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Myanmar,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Myanmar,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Myanmar,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Myanmar,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Myanmar,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Myanmar,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Myanmar,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Myanmar,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Myanmar,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Panama,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Panama,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Panama,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Panama,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Panama,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Panama,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Panama,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Panama,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Panama,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Suriname,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Suriname,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Suriname,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Suriname,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Suriname,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Suriname,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Suriname,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Suriname,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Suriname,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Stateless,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Stateless,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Stateless,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Stateless,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Stateless,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Stateless,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Stateless,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Stateless,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Stateless,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Fiji,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Fiji,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Fiji,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Fiji,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Fiji,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Fiji,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Fiji,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Fiji,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Fiji,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Lesotho,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Lesotho,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Lesotho,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Lesotho,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Lesotho,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Lesotho,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Lesotho,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Lesotho,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Lesotho,NA,pending,NA,NA,NA,NA,NA,NA,NA
+North Macedonia,NA,filed,NA,NA,NA,NA,NA,NA,NA
+North Macedonia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+North Macedonia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+North Macedonia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+North Macedonia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+North Macedonia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+North Macedonia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+North Macedonia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+North Macedonia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Papua New Guinea,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Papua New Guinea,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Papua New Guinea,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Papua New Guinea,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Papua New Guinea,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Papua New Guinea,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Papua New Guinea,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Papua New Guinea,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Papua New Guinea,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Singapore,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Singapore,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Singapore,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Singapore,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Singapore,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Singapore,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Singapore,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Singapore,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Singapore,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Sweden,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Sweden,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Sweden,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Sweden,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Sweden,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Sweden,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Sweden,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Sweden,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Sweden,NA,pending,NA,NA,NA,NA,NA,NA,NA
+(Blank),NA,filed,NA,NA,NA,NA,NA,NA,NA
+(Blank),FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+(Blank),FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+(Blank),FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+(Blank),TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+(Blank),TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+(Blank),TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+(Blank),NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+(Blank),NA,pending,NA,NA,NA,NA,NA,NA,NA
+Denmark​,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Denmark​,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Denmark​,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Denmark​,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Denmark​,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Denmark​,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Denmark​,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Denmark​,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Denmark​,NA,pending,NA,NA,NA,NA,NA,NA,NA
+South Sudan,NA,filed,NA,NA,NA,NA,NA,NA,NA
+South Sudan,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+South Sudan,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+South Sudan,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+South Sudan,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+South Sudan,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+South Sudan,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+South Sudan,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+South Sudan,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Anguilla,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Anguilla,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Anguilla,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Anguilla,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Anguilla,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Anguilla,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Anguilla,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Anguilla,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Anguilla,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Brunei,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Brunei,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Brunei,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Brunei,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Brunei,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Brunei,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Brunei,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Brunei,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Brunei,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Slovenia,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Slovenia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Slovenia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Slovenia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Slovenia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Slovenia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Slovenia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Slovenia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Slovenia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Turkmenistan,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Turkmenistan,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Turkmenistan,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Turkmenistan,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Turkmenistan,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Turkmenistan,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Turkmenistan,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Turkmenistan,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Turkmenistan,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Estonia,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Estonia,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Estonia,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Estonia,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Estonia,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Estonia,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Estonia,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Estonia,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Estonia,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Falkland Islands,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Falkland Islands,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Falkland Islands,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Falkland Islands,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Falkland Islands,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Falkland Islands,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Falkland Islands,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Falkland Islands,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Falkland Islands,NA,pending,NA,NA,NA,NA,NA,NA,NA
+Paraguay,NA,filed,NA,NA,NA,NA,NA,NA,NA
+Paraguay,FALSE,nonmerit_dismiss_jurisdiction,NA,NA,NA,NA,NA,NA,NA
+Paraguay,FALSE,nonmerit_dismiss_imperfect,NA,NA,NA,NA,NA,NA,NA
+Paraguay,FALSE,nonmerit_dismiss_other,NA,NA,NA,NA,NA,NA,NA
+Paraguay,TRUE,merit_dismiss_confirm,NA,NA,NA,NA,NA,NA,NA
+Paraguay,TRUE,merit_allow_referback,NA,NA,NA,NA,NA,NA,NA
+Paraguay,TRUE,merit_allow_substitute,NA,NA,NA,NA,NA,NA,NA
+Paraguay,NA,total_finalized,NA,NA,NA,NA,NA,NA,NA
+Paraguay,NA,pending,NA,NA,NA,NA,NA,NA,NA

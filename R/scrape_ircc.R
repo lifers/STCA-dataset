@@ -1,5 +1,6 @@
 library(tidyverse)
 library(rvest)
+library(readr)
 
 path_fmt <- "./data/raw/web_data/Asylum claims by year – {year} - Canada.ca.htm"
 table_names <- c("rcmp_interceptions",
@@ -45,19 +46,20 @@ all_tables <- 2017:2023 %>%
   map(process_yearly)
 
 # select only RCMP tables from all_tables and bind them together
-all_tables %>%
+rcmp_table <- all_tables %>%
   map(pluck, 1) %>%
   map(select, -Total) %>%
   map(slice, -n()) %>%
-  bind_rows() %>%
-  saveRDS(file = "./data/intermediate/rcmp_interceptions.rds")
+  bind_rows()
+
+rcmp_table %>% saveRDS("./data/intermediate/rcmp_interceptions.rds")
+rcmp_table %>% write_csv("./data/intermediate/rcmp_interceptions.csv")
 
 # do the same for CBSA and IRCC tables
 normal_read <- function(index) {
-  return(all_tables %>% map(pluck, index) %>% bind_rows())
+  table <- all_tables %>% map(pluck, index) %>% bind_rows()
+  table %>% saveRDS(str_glue("./data/intermediate/{table_names[index]}.rds"))
+  table %>% write_csv(str_glue("./data/intermediate/{table_names[index]}.csv"))
 }
 
-for (i in 2:9) {
-  normal_read(i) %>%
-    saveRDS(file = str_glue("./data/intermediate/{table_names[i]}.rds"))
-}
+2:9 %>% map(normal_read)
