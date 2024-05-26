@@ -1,0 +1,18 @@
+name,column_name,dtype,required,description
+Year,Year,integer,TRUE,The year of entry
+Provinces/Territories,Provinces/Territories,factor,TRUE,"2 options:
+- The province/territory of entry 
+- total"
+January,January,integer,FALSE,Number of asylum claimants who enters in January
+February,February,integer,FALSE,Number of asylum claimants who enters in February
+March,March,integer,FALSE,Number of asylum claimants who enters in March
+April,April,integer,FALSE,Number of asylum claimants who enters in April
+May,May,integer,FALSE,Number of asylum claimants who enters in May
+June,June,integer,FALSE,Number of asylum claimants who enters in June
+July,July,integer,FALSE,Number of asylum claimants who enters in July
+August,August,integer,FALSE,Number of asylum claimants who enters in August
+September,September,integer,FALSE,Number of asylum claimants who enters in September
+October,October,integer,FALSE,Number of asylum claimants who enters in October
+November,November,integer,FALSE,Number of asylum claimants who enters in November
+December,December,integer,FALSE,Number of asylum claimants who enters in December
+Total,Total,integer,FALSE,Number of asylum claimants who enters in a year
