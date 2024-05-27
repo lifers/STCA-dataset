@@ -71,8 +71,7 @@ final_table <- 2017:2023 %>%
       .default = country
     ),
     across(c(country, outcome), as_factor)
-  ) %>%
-  pivot_wider(names_from = year, values_from = count)
+  )
 
 final_table %>% saveRDS("./data/intermediate/rad_appeals.rds")
 final_table %>% write_csv("./data/intermediate/rad_appeals.csv")
