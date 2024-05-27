@@ -1,0 +1,16 @@
+name,column_name,dtype,required,description
+Year,year,integer,TRUE,The year of entry
+Provinces,province,factor,TRUE,The province of interception
+January,january,integer,FALSE,Number of asylum claimants intercepted in January
+February,february,integer,FALSE,Number of asylum claimants intercepted in February
+March,march,integer,FALSE,Number of asylum claimants intercepted in March
+April,april,integer,FALSE,Number of asylum claimants intercepted in April
+May,may,integer,FALSE,Number of asylum claimants intercepted in May
+June,june,integer,FALSE,Number of asylum claimants intercepted in June
+July,july,integer,FALSE,Number of asylum claimants intercepted in July
+August,august,integer,FALSE,Number of asylum claimants intercepted in August
+September,september,integer,FALSE,Number of asylum claimants intercepted in September
+October,october,integer,FALSE,Number of asylum claimants intercepted in October
+November,november,integer,FALSE,Number of asylum claimants intercepted in November
+December,december,integer,FALSE,Number of asylum claimants intercepted in December
+Total,total,integer,FALSE,Number of asylum claimants intercepted in a year

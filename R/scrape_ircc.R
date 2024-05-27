@@ -12,18 +12,28 @@ table_names <- c("rcmp_interceptions",
                  "cbsa_all_entry",
                  "ircc_processed",
                  "cbsa_plus_ircc")
-month_names <- c("January",
-                 "February",
-                 "March",
-                 "April",
-                 "May",
-                 "June",
-                 "July",
-                 "August",
-                 "September",
-                 "October",
-                 "November",
-                 "December")
+subdiv_names <- c("province",
+                  "prov_territory",
+                  "prov_territory",
+                  "prov_territory",
+                  "prov_territory",
+                  "prov_territory",
+                  "cbsa_office",
+                  "prov_territory",
+                  "prov_territory")
+col_names <- c("january",
+               "february",
+               "march",
+               "april",
+               "may",
+               "june",
+               "july",
+               "august",
+               "september",
+               "october",
+               "november",
+               "december",
+               "total")
 
 process_yearly <- function(year) {
   file_path <- str_glue(path_fmt)
@@ -31,13 +41,17 @@ process_yearly <- function(year) {
   raw_tables <- page %>% html_elements("table")
   
   # standardize month names, make sure all numbers are read as
-  # integers instead of characters, and add a Year column.
+  # integers instead of characters, and add a year column.
   scraped_tables <- raw_tables %>%
     map(html_table, na.strings = "--") %>%
-    map(rename_with, .fn = ~ month_names, .cols = 2:13) %>%
-    map(mutate, across(January:Total & where(is.character), parse_number)) %>%
+    map(rename_with, .fn = ~ col_names, .cols = 2:14) %>%
+    map(mutate, across(january:total & where(is.character), parse_number)) %>%
     map(mutate, across(where(is.numeric), as.integer)) %>%
-    map(add_column, Year = as.integer(year), .before = 1)
+    map(add_column, year = as.integer(year), .before = 1)
+  
+  for (i in 1:9) {
+    colnames(scraped_tables[[i]])[2] <- subdiv_names[i]
+  }
   
   return(scraped_tables)
 }
@@ -48,7 +62,7 @@ all_tables <- 2017:2023 %>%
 # select only RCMP tables from all_tables and bind them together
 rcmp_table <- all_tables %>%
   map(pluck, 1) %>%
-  map(select, -Total) %>%
+  map(select, -total) %>%
   map(slice, -n()) %>%
   bind_rows()
 

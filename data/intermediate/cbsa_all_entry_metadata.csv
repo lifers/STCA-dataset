@@ -1,8 +1,12 @@
 name,column_name,dtype,required,description
 Year,year,integer,TRUE,The year of entry
-Provinces/Territories,prov_territory,factor,TRUE,"2 options:
-- The province/territory of entry 
-- The national total"
+CBSA designated ports of entry/inland offices,cbsa_office,factor,TRUE,"One or a combination of these types of CBSA office:
+- Air Ports of Entry
+- Land Ports of Entry
+- Marine Ports of Entry
+- All Ports of Entry (Air, Land and Marine)
+- Inland Offices
+- Total - CBSA Land, Air and Marine port of entry and Inland Offices"
 January,january,integer,FALSE,Number of asylum claimants who enters in January
 February,february,integer,FALSE,Number of asylum claimants who enters in February
 March,march,integer,FALSE,Number of asylum claimants who enters in March
