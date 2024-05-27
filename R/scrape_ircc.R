@@ -2,13 +2,13 @@ library(tidyverse)
 library(rvest)
 library(readr)
 
-path_fmt <- "./data/raw/web_data/Asylum claims by year – {year} - Canada.ca.htm"
+path_fmt <- "./data/raw/web_ircc/Asylum claims by year – {year} - Canada.ca.htm"
 table_names <- c("rcmp_interceptions",
                  "cbsa_air_entry",
                  "cbsa_land_entry",
                  "cbsa_marine_entry",
                  "cbsa_all_entry",
-                 "cbsa_inland_entry",
+                 "cbsa_inland_office",
                  "cbsa_total",
                  "ircc_processed",
                  "cbsa_plus_ircc")
