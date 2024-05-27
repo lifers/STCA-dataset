@@ -9,7 +9,7 @@ table_names <- c("rcmp_interceptions",
                  "cbsa_marine_entry",
                  "cbsa_all_entry",
                  "cbsa_inland_entry",
-                 "cbsa_all_entry",
+                 "cbsa_total",
                  "ircc_processed",
                  "cbsa_plus_ircc")
 subdiv_names <- c("province",
@@ -66,14 +66,14 @@ rcmp_table <- all_tables %>%
   map(slice, -n()) %>%
   bind_rows()
 
-rcmp_table %>% saveRDS("./data/intermediate/rcmp_interceptions.rds")
-rcmp_table %>% write_csv("./data/intermediate/rcmp_interceptions.csv")
+rcmp_table %>% saveRDS("./data/clean/ircc/rcmp_interceptions.rds")
+rcmp_table %>% write_csv("./data/clean/ircc/rcmp_interceptions.csv")
 
 # do the same for CBSA and IRCC tables
 normal_read <- function(index) {
   table <- all_tables %>% map(pluck, index) %>% bind_rows()
-  table %>% saveRDS(str_glue("./data/intermediate/{table_names[index]}.rds"))
-  table %>% write_csv(str_glue("./data/intermediate/{table_names[index]}.csv"))
+  table %>% saveRDS(str_glue("./data/clean/ircc/{table_names[index]}.rds"))
+  table %>% write_csv(str_glue("./data/clean/ircc/{table_names[index]}.csv"))
 }
 
 2:9 %>% map(normal_read)

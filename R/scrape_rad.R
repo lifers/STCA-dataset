@@ -73,5 +73,5 @@ final_table <- 2017:2023 %>%
     across(c(country, outcome), as_factor)
   )
 
-final_table %>% saveRDS("./data/intermediate/rad_appeals.rds")
-final_table %>% write_csv("./data/intermediate/rad_appeals.csv")
+final_table %>% saveRDS("./data/clean/rad/rad_appeals.rds")
+final_table %>% write_csv("./data/clean/rad/rad_appeals.csv")
