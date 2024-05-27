@@ -2,7 +2,7 @@ library(tidyverse)
 library(rvest)
 library(readr)
 
-path_fmt <- "./data/raw/web_data/Refugee Appeals by Country of Alleged Persecution - {year} - Immigration and Refugee Board of Canada.htm"
+path_fmt <- "./data/raw/web_rad/Refugee Appeals by Country of Alleged Persecution - {year} - Immigration and Refugee Board of Canada.htm"
 column_names <- c("country",
                   "filed",
                   "nonmerit_dismiss_jurisdiction",
