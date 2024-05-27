@@ -1,0 +1,16 @@
+name,column_name,dtype,required,description
+Year,year,integer,TRUE,The year of appeal
+Country,country,factor,TRUE,"The refugee's country of origin, Stateless, Unknown, or Blank. "
+Merit,merit,logical,FALSE,"- TRUE: Appeals finalized where there has been an analysis of the substance of the RPD decision.
+- FALSE: Appeals dismissed and finalized without an analysis of the substance of the RPD decision."
+Outcome,outcome,factor,TRUE,"One of 9 possible outcomes:
+- Filed: New appeals filed to the RAD.
+- Dismissed – Lack of RAD Jurisdiction: Certain types of RPD decisions cannot be appealed to the RAD—for example, claims of designated foreign nationals, rejected claims where the RPD stated that the claim had no credible basis, rejected claims that were referred as an exception under the Safe Third Country Agreement, and claims that were determined by the RPD to be abandoned. Note: Until August 2014, this included appeals filed by nationals of designated countries of origin.
+- Dismissed – Appeal not Perfected: After the filing of a notice of appeal, a record that complies with the RAD rules was not submitted by the appellant to the RAD, or not within the proper time limit.
+- Dismissed – Withdrawn, Abandoned & Other: Other reasons or default in the proceedings that led the RAD to dismiss the appeal without an analysis of the merits.
+- Dismissed – Confirmed RPD: The RAD has confirmed the determination of the RPD, meaning that the appeal is dismissed.
+- Allowed – Referred Back: The RAD has allowed the appeal and referred the matter to the RPD for re-determination, giving the directions to the RPD that it considers appropriate.
+- Allowed – Substituted Determination: The RAD has allowed the appeal, set aside the RPD determination and substituted a determination that, in its opinion, should have been made.
+- Total Finalizations: All appeals finalized on merit or non-merit during the time period indicated. Appeals may have been filed in a previous time period.
+- Pending: All appeals that have not been finalized."
+Count,count,integer,FALSE,Number of appeals
