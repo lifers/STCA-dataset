@@ -1,0 +1,22 @@
+name,column_name,dtype,required,description
+Year,year,integer,TRUE,The year of entry
+CBSA designated ports of entry/inland offices,cbsa_office,factor,TRUE,"One or a combination of these types of CBSA office:
+- Air Ports of Entry
+- Land Ports of Entry
+- Marine Ports of Entry
+- All Ports of Entry (Air, Land and Marine)
+- Inland Offices
+- Total - CBSA Land, Air and Marine port of entry and Inland Offices"
+January,january,integer,FALSE,Number of asylum claimants who enter in January
+February,february,integer,FALSE,Number of asylum claimants who enter in February
+March,march,integer,FALSE,Number of asylum claimants who enter in March
+April,april,integer,FALSE,Number of asylum claimants who enter in April
+May,may,integer,FALSE,Number of asylum claimants who enter in May
+June,june,integer,FALSE,Number of asylum claimants who enter in June
+July,july,integer,FALSE,Number of asylum claimants who enter in July
+August,august,integer,FALSE,Number of asylum claimants who enter in August
+September,september,integer,FALSE,Number of asylum claimants who enter in September
+October,october,integer,FALSE,Number of asylum claimants who enter in October
+November,november,integer,FALSE,Number of asylum claimants who enter in November
+December,december,integer,FALSE,Number of asylum claimants who enter in December
+Total,total,integer,FALSE,Number of asylum claimants who enter in a year

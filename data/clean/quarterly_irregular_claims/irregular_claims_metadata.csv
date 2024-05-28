@@ -1,0 +1,12 @@
+name,column_name,dtype,required,description
+Quarter name,quarter_name,character,TRUE,The year and month of the time period
+Year,year,integer,TRUE,The year of claims
+Number of quarters represented,number of quarters represented,integer,TRUE,The number of quarters observed starting from 2017 feburary
+Country of alleged persecution,country,factor,TRUE,The first listed country of alleged persecution as entered into the IRB case management system by the officer from CBSA or IRCC when the claim was made and referred to the RPD.
+Intake,intake,integer,FALSE,The number of claims received by the RPD by irregular border crossers
+Accepted,accepted,integer,FALSE, The RPD has determined that the claimant is either a Convention refugee or a person in need of protection
+Rejected,rejected,integer,FALSE,The RPD has determined that the claimant is not a Convention refugee or a person in need of protection.
+Abandoned,abandoned,integer,FALSE,"The RPD has declared that the claim has been abandoned because, for example, the completed Basis of Claim Form was not provided on time, the claimant's current and correct contact information was not provided, or the claimant did not attend their refugee protection claim hearing or the special hearing on the abandonment of the claim (if required)."
+Withdrawn or other,withdrawn other,integer,FALSE,"`Withdrawn` describes cases in which the claimant does not continue with their claim. The claimant can decide to withdraw their claim before the hearing upon written notice to the RPD. Once substantive evidence has been accepted at a hearing, the claimant must make an application to the RPD to be able to withdraw their claim. `Other` describes cases in which the proceeding is terminated upon notice from a CBSA officer because the claimant is not eligible to claim refugee protection (e.g., determined inadmissible to Canada on grounds of serious criminality or organized criminality) or other situations such as when the claimant has passed away."
+Total,total,integer,FALSE,"Total of all claims accepted, rejected, abandoned, withdrawn & other. Claims finalized in the time period indicated may have been referred to the RPD in a previous time period."
+Pending at the end of period,pending at the end of period,integer,FALSE,All claims that have not been finalized by the end of the identified time period.

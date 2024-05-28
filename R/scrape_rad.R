@@ -2,7 +2,7 @@ library(tidyverse)
 library(rvest)
 library(readr)
 
-path_fmt <- "./data/raw/web_data/Refugee Appeals by Country of Alleged Persecution - {year} - Immigration and Refugee Board of Canada.htm"
+path_fmt <- "./data/raw/web_rad/Refugee Appeals by Country of Alleged Persecution - {year} - Immigration and Refugee Board of Canada.htm"
 column_names <- c("country",
                   "filed",
                   "nonmerit_dismiss_jurisdiction",
@@ -73,5 +73,5 @@ final_table <- 2017:2023 %>%
     across(c(country, outcome), as_factor)
   )
 
-final_table %>% saveRDS("./data/intermediate/rad_appeals.rds")
-final_table %>% write_csv("./data/intermediate/rad_appeals.csv")
+final_table %>% saveRDS("./data/clean/rad/rad_appeals.rds")
+final_table %>% write_csv("./data/clean/rad/rad_appeals.csv")
