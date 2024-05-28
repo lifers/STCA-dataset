@@ -1,12 +1,16 @@
 # STCA Dataset
-Welcome to the STCA Dataset repository.
-We collect public datasets about the entry of asylum seekers into Canada from multiple departments of the Government of Canada.
+Welcome to the US-CAN Safe Third Country Agreement Dataset repository.
+
+We collect public datasets about the entry of asylum seekers into Canada from multiple departments of the Government of Canada, in the hopes of providing researchers with better data in order to study the effects of the US-Canada Safe Third Country Agreement.
 These data will be released under the _HAVEN: Asylum Lab_ project for public usage.
 
 ## Using the Data
+Information on what datasets we have, what they include, and what they measure, are all included in our master metadata document.
+- To access the complete metadata, check out `data/master_doc_compressed.pdf`.
+
 We have the cleaned data in `.csv` and `.rds` file format under the `data/clean/` directory.
 Accompanying metadata are available for each table and sub-dataset.
-To access the complete metadata, check out `data/master_doc_compressed.pdf`.
+
 
 ## Reproduce the Cleaned Data
 ### Data Source
