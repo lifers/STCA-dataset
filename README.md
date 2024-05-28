@@ -16,7 +16,7 @@ Manifests are available for each raw file which includes the source URL.
 ### Processing the Source
 **Requirements**:
 - A working installation of [R](https://www.r-project.org/) (tested on `R-4.4.0` on Windows 11)
-  - Install the `tidyverse` package if you don't have it in your environment by running `install.packages("tidyverse")` in the R console
+  - If you don't have it in your environment, install the `tidyverse` package by running `install.packages("tidyverse")` in the R console
 - Any `.xlsx` and `.csv` editor
 
 Scripts under the `R/` directory will parse the source webpage files in `data/raw/web_ircc/` and `data/raw/web_rad/` and output the cleaned tables to `data/clean/ircc/` and `data/clean/rad/` directories respectively.
