@@ -1,8 +1,12 @@
 name,column_name,dtype,required,description
 Year,year,integer,TRUE,The year of appeal
-Country,country,factor,TRUE,"The refugee's country of origin, Stateless, Unknown, or Blank. "
+Country,country,factor,TRUE,"One of:
+- Refugee's country of origin
+- Stateless
+- Unknown
+- Blank "
 Merit,merit,logical,FALSE,"Whether the appeals are read by the RPD.
-- TRUE: Appeals finalized where there has been an analysis of the substance of the RPD decision.
+- TRUE: Appeals finalized with an analysis of the substance of the RPD decision.
 - FALSE: Appeals dismissed and finalized without an analysis of the substance of the RPD decision."
 Outcome,outcome,factor,TRUE,"One of 9 possible outcomes:
 - Filed: New appeals filed to the RAD.
