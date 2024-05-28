@@ -19,7 +19,7 @@ Manifests are available for each raw file which includes the source URL.
 
 ### Processing the Source
 **Requirements**:
-- A working installation of [R](https://www.r-project.org/) (tested on `R-4.4.0` on Windows 11)
+- A working installation of [R](https://www.r-project.org/) (at least version `R-4.3.2`, tested on Windows 11, MacOS Monterey, and MacOS Sonoma)
   - If you don't have it in your environment, install the `tidyverse` package by running `install.packages("tidyverse")` in the R console
 - Any `.xlsx` and `.csv` editor
 
