@@ -29,8 +29,8 @@
 
   [
     === Sources
-    #for link in data_table.url.split("\n") {
-      [- #link]
+    #for sourcelink in data_table.url.split(",\r\n") {
+      [- #link(sourcelink)]
     }
 
     === Description
