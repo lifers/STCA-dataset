@@ -5,31 +5,33 @@ https://web.archive.org/web/20240522143710/https://www.canada.ca/en/immigration-
 https://web.archive.org/web/20240522143832/https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/asylum-claims/asylum-claims-2020.html,
 https://web.archive.org/web/20240522143842/https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/asylum-claims/asylum-claims-2019.html,
 https://web.archive.org/web/20240522143842/https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/asylum-claims/asylum-claims-2018.html,
-https://web.archive.org/web/20240522144008/https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/asylum-claims/asylum-claims-2017.html","These are the data published by the Government of Canada on behalf of the Canada Border Services Agency (CBSA), Royal Canadian Mounted Police (RCMP) and Immigration, Refugee and Citizenship Canada (IRCC). The main page can be accessed in https://web.archive.org/web/20240520032831/https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/asylum-claims.html.","Webpages are downloaded from the original URL, which is also archived on the Wayback Machine. Each webpage has one year's worth of data with monthly resolution. Each webpage contains 9 tables; one from RCMP, six from CBSA, one from IRCC, and one combined CBSA and IRCC data. We aggregate each table type from 2017-2023 which results in 9 cleaned tables in the `data/clean/ircc` subdirectory. The raw webpages are available in `data/raw/web_ircc` and the R script for processing is in `R/scrape_ircc.R`."
+https://web.archive.org/web/20240522144008/https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/asylum-claims/asylum-claims-2017.html",
+"These are the data published by the Government of Canada on behalf of the Canada Border Services Agency (CBSA), Royal Canadian Mounted Police (RCMP) and Immigration, Refugee and Citizenship Canada (IRCC). The main page can be accessed in https://web.archive.org/web/20240520032831/https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/asylum-claims.html.","Webpages are downloaded from the original URL, which is also archived on the Wayback Machine. Each webpage has one year's worth of data with monthly resolution. Each webpage contains 9 tables; one from RCMP, six from CBSA, one from IRCC, and one combined CBSA and IRCC data. We aggregate each table type from 2017-2023 which results in 9 cleaned tables in the `data/clean/ircc` subdirectory. The raw webpages are available in `data/raw/web_ircc` and the R script for processing is in `R/scrape_ircc.R`."
 IRB Irregular crossers claims data,quarterly_irregular_claims,"
-https://web.archive.org/web/20190106121256/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20190512124604/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20190618052604/https://www.irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20190901103128/https://www.irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20191122232212/https://www.irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20200330154348/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20200920004722/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20210308214510/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20210630215252/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20211110011339/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20220119101359/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20220511213826/https://www.irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20220630141929/https://www.irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20221216054147/https://www.irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20230322122253/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20230915142057/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20231202033431/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-https://web.archive.org/web/20240522145305/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx
-","This is data that was published by the Immigration and Refugee Board (IRB) on the number of claims made to the Refugee Protection Division (RPD), from 2017 Feburary onwards.","The same webpage at different time periods is accessed through the Wayback Machine. The webpage is updated quarterly, though some periods are not archived on the Wayback Machine, and as such are missing time periods. The webpage at different times each contain one table. We aggregated data from 2017-2024, using Excel to replace '--' values with NA, creating the quarter_name, year, and number_of_quarters_represented columns to represent time, and cleaning country names. This results in 1 cleaned table in the `data/clean/quarterly_irregular_claims` subdirectory. The raw webpages are available in `data/raw/web_quarterly_irregular_claims`."
-RAD appeals data,rad,"https://web.archive.org/web/20240522150106/https://www.irb-cisr.gc.ca/en/statistics/appeals/Pages/RADStat2023.aspx
-https://web.archive.org/web/20240522145949/https://www.irb-cisr.gc.ca/en/statistics/appeals/Pages/RADStat2022.aspx
-https://web.archive.org/web/20240522150030/https://www.irb-cisr.gc.ca/en/statistics/appeals/Pages/RADStat2021.aspx
-https://web.archive.org/web/20240522145918/https://www.irb-cisr.gc.ca/en/statistics/appeals/Pages/RADStat2020.aspx
-https://web.archive.org/web/20240522145650/https://www.irb-cisr.gc.ca/en/statistics/appeals/Pages/RADStat2019.aspx
-https://web.archive.org/web/20240522145912/https://www.irb-cisr.gc.ca/en/statistics/appeals/Pages/RADStat2018.aspx
+https://web.archive.org/web/20190106121256/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20190512124604/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20190618052604/https://www.irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20190901103128/https://www.irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20191122232212/https://www.irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20200330154348/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20200920004722/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20210308214510/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20210630215252/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20211110011339/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20220119101359/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20220511213826/https://www.irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20220630141929/https://www.irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20221216054147/https://www.irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20230322122253/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20230915142057/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20231202033431/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx,
+https://web.archive.org/web/20240522145305/https://irb-cisr.gc.ca/en/statistics/Pages/irregular-border-crossers-countries.aspx",
+"This is data that was published by the Immigration and Refugee Board (IRB) on the number of claims made to the Refugee Protection Division (RPD), from 2017 Feburary onwards.",
+"The same webpage at different time periods is accessed through the Wayback Machine. The webpage is updated quarterly, though some periods are not archived on the Wayback Machine, and as such are missing time periods. The webpage at different times each contain one table. We aggregated data from 2017-2024, using Excel to replace '--' values with NA, creating the quarter_name, year, and number_of_quarters_represented columns to represent time, and cleaning country names. This results in 1 cleaned table in the `data/clean/quarterly_irregular_claims` subdirectory. The raw webpages are available in `data/raw/web_quarterly_irregular_claims`."
+RAD appeals data,rad,"https://web.archive.org/web/20240522150106/https://www.irb-cisr.gc.ca/en/statistics/appeals/Pages/RADStat2023.aspx,
+https://web.archive.org/web/20240522145949/https://www.irb-cisr.gc.ca/en/statistics/appeals/Pages/RADStat2022.aspx,
+https://web.archive.org/web/20240522150030/https://www.irb-cisr.gc.ca/en/statistics/appeals/Pages/RADStat2021.aspx,
+https://web.archive.org/web/20240522145918/https://www.irb-cisr.gc.ca/en/statistics/appeals/Pages/RADStat2020.aspx,
+https://web.archive.org/web/20240522145650/https://www.irb-cisr.gc.ca/en/statistics/appeals/Pages/RADStat2019.aspx,
+https://web.archive.org/web/20240522145912/https://www.irb-cisr.gc.ca/en/statistics/appeals/Pages/RADStat2018.aspx,
 https://web.archive.org/web/20240522145909/https://www.irb-cisr.gc.ca/en/statistics/appeals/Pages/RADStat2017.aspx",This data is published by the Immigration and Refugee Board of Canada (IRB) on the number of yearly asylum appeals processed by its Refugee Appeals Division (RAD). The main page can be accessed in https://web.archive.org/web/20240522145650/https://www.irb-cisr.gc.ca/en/statistics/appeals/Pages/index.aspx.,"Webpages are downloaded from the original URL, which is also archived on the Wayback Machine. Each webpage has one year's worth of data in one table. We aggregate each table type from 2017-2023 which results in one cleaned table in the `data/clean/rad` subdirectory. The raw webpages are available in `data/raw/web_rad` and the R script for processing is in `R/scrape_rad.R`."
