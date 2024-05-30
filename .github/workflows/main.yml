@@ -17,4 +17,5 @@ jobs:
           DATAVERSE_SERVER: https://borealisdata.ca/
           # existing dataverse dataset doi
           DATAVERSE_DATASET_DOI: doi:10.5683/SP3/WBSFPE
-          
+          # only upload data directory
+          GITHUB_DIR: data
